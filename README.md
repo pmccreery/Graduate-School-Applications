@@ -58,6 +58,12 @@ Your statements should be thoughtful -- don't fully copy-paste essays between sc
 
 My statements follow a general flow, so it should be realatively easy to pick up on trends. I did change up the style for different schools -- variety is the spice of life! I wasn't sure what was the best method, so I just tried a lot of things. 
 
+# Timeline
+
+This flexuates A LOT. Some weeks you do a lot, and some not so much. Take it at your own pace, but know that the time crunch isn't as aggressive as you think. Make sure to give your letter writers about a month of notice to submit a letter, and keep them up to date about your application status, interests, and information in general.
+
+Personally, fall/Thanksgiving break was my main productive time period. December 1 is the earliest applications will be due, so I did many applications during that time. It took me about one day per application or two, so in the scheme of things, you don't need to be rushing to get everything done in one week in October. If you like to have a bunch of people read your statements, maybe try to be done with the application 2 weeks in advance, but to be honest, I was always pushing up against the deadline for things. Is that how I wanted it to go? No. But with school, exams, research, stress, etc., it was only reasonable that I got done with applications in the days before it's due. Don't pressure yourself, and try to get things done in a timeframe that you're comfortable (perhaps the day the materials are due), but be mindful of the people supporting you. Don't ask for a brand new letter within a week of the due date unless you know that they can write it that quickly without being angry with you. Take your time. Don't stress.
+
 # Some truths
 The application process is random. Qualifications can get you so far, but among the 20% who are probably qualified enough to enter a given program, they need to reduce that pool. This means random choice comes into play. Who read your essay? Do they like old-school essays or do they like color? Do they appreciate your background as a solar physics student? Maybe not if they are in particle physics. The best application is subjective and depends on who reads it, the time of day, phase of the moon, their breakfast, whatever. Don't take any of this personal. It's random. Do your best to get the best odds, but still remember it's up to chance. Maximize your chances. 
 
