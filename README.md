@@ -4,6 +4,8 @@ This repository has the goal to give you a complete look at the graduate school 
 # Structure of Files
 To start, you'll find 3 folders -- Applications, Decision Letters, and General Documents. Applications contains all of my statements (diversity, personal, research, etc.) that I wrote for applications. The Decision Letters folder contains the acceptance letters I received (rejection letters aren't that interesting, and I don't want to dig rejection back up.) These give you an idea of the pay I was offered, the benefits, how to accept, what to expect, and general information about what they expect from you as a student/researcher. The General Documents folder contains my CV, resume, transcripts, etc. that schools might ask for. This gives you an idea about what my CV looked like (it's a template, feel free to use it if you're familiar with TeX). Below these folders, you'll find "Patrick McCreery - Graduate Schools.xlsx" -- this contains the spreadsheet I used to personally keep track of logistics as well as give to letter writers for more context about what they're writing for.
 
+Edit: due to sensitive information, I have removed the files. The text is applicable, but contact me if you would like to see any of the files.
+
 # Numbers and Context
 Now, the numbers are tricky; Never compare yourself to others, but to give you a complete picture of my application, it's important to mention what I was working with when applying. A full picture is on my CV.
 
